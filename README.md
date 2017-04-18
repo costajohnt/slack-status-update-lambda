@@ -23,3 +23,6 @@
 
 ## Configure
 In the web console, make sure you add your environment variables in the input fields below the code.  Set up a trigger for the lambda.  This example uses a schedule event, configured to run once per week on sunday when the schedule changes: `cron(0 0 12 ? * SUN *) `
+
+## Trello
+https://trello.com/b/I7sSfawC/slack-honeybadger-status
